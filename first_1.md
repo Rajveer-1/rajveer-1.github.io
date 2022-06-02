@@ -1,13 +1,14 @@
-## Welcome to my first  webiste
+# Welcome to my first  webiste
 
-
-# I am rajveer singh
+---
+## Introduction:
+*My name is **rajveer singh**.I am pursuing my btech course at guru nanak dev engineering college.i want to get a good command over computer languages.
  
 
 
-
-1.i want to get a good command over computer languages .
 2. i have an interest in sports.
+1.
+
 
 
 
