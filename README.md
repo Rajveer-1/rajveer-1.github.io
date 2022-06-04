@@ -12,6 +12,7 @@
 
 ***Marks:***
 ```
+
 |S.no| Marks% (10th)|marks% (12th)| Btech(sem1 sgpa)|
 |--|--|--|--|
 |1 |83.07|90|9.65|
